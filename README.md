@@ -11,7 +11,7 @@ The dataset contains detailed information on house sales in King County, includi
 
 ## Project Structure
 
-- **`house_sales_analysis.py`**: Main script containing the full analysis.  
+- **`House_Sales_in_King_Count_USA.ipynb`**: Main script containing the full analysis.  
   - Designed to run in Pyodide-enabled environments (e.g., IBM Skills Network Labs on Coursera).  
   - Handles package installation and dataset download automatically.  
 
